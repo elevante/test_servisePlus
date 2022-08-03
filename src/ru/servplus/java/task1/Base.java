@@ -1,4 +1,4 @@
-package ru.servplus.task1;
+package ru.servplus.java.task1;
 
 import java.util.OptionalInt;
 
